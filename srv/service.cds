@@ -1,7 +1,8 @@
-using {  app.db.my.bookshop as db  } from '../db/bookshop-db';
+using {my.bookshop} from '../db/schema';
 
-Service consuming {
+service capservice {
 
-    entity testing as projection on db.Books ;
+    entity Bookstore as projection on bookshop.Books;
+
+
 }
-

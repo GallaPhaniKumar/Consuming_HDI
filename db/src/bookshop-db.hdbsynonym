@@ -1,8 +1,4 @@
 {
     "BOOKS_TABLE_REUSED": {
-        "target": {
-            "object": "my.bookshop::Books",
-            "schema": "_PLACEHOLDER_"
-        }
     }
 }
