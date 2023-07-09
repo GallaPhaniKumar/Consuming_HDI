@@ -1,7 +1,7 @@
 _schema-version: "3.1"
 ID: consuming_hdbresource
 description: A simple CAP project.
-version: 1.0.0
+version: 1.0.5
 modules:
 - name: consuming_hdbresource-srv
   type: nodejs
