@@ -1,5 +1,5 @@
 {
-  "bookshop-db": {
+  "ServiceName_1": {
     "object_owner": {
       "container_roles": [
         "my.bookshop::EXTERNAL_ACCESS_G#"

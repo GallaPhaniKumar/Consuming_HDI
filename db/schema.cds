@@ -1,4 +1,4 @@
-namespace my.bookshop;
+namespace reuse.bookshop;
 
 @cds.persistence.exists
 entity Books {

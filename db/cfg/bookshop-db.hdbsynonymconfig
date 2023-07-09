@@ -1,8 +1,8 @@
 {
-  "BOOKS_TABLE_REUSED": {
+  "REUSE_BOOKSHOP_BOOKS": {
     "target": {
-      "schema.configure": "bookshop-db/schema",
-      "object": "my.bookshop::BOOKS"
+      "schema.configure": "ServiceName_1/schema",
+      "object": "MY_BOOKSHOP_BOOKS"
     }
   }
 }

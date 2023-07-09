@@ -1,4 +1,4 @@
-using {my.bookshop} from '../db/schema';
+using {reuse.bookshop} from '../db/schema';
 
 service capservice {
 
