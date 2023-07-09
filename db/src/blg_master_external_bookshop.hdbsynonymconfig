@@ -1,0 +1,8 @@
+{
+  "blg_master_external_bookshop": {
+    "target": {
+      "schema": "ServiceName_1/schema",
+      "object": "MY_BOOKSHOP_BOOKS"
+    }
+  }
+}
